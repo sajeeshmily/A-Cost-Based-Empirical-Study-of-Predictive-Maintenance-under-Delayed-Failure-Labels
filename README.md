@@ -1,4 +1,4 @@
-[README.txt](https://github.com/user-attachments/files/34065271/README.txt)
+
 ADAPT-PM study: outputs package (v1.1)
 ======================================
 Manuscript_ADAPT-PM_v1.1.docx / .pdf   Revised manuscript (v1.1, after review)
